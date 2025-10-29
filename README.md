@@ -33,7 +33,7 @@ Authentication	JWT / OAuth (if applicable)
 Follow these steps to run the project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/manrega-app.git
+git clone https://github.com/shuhaki/mgnrega.git
 
 # Navigate to project directory
 cd manrega-app
